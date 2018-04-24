@@ -1,0 +1,3 @@
+Ricardo; Ovos estrelados; 1
+Gonçalo; Ovos cozidos; 2
+Milan; Ovos escalfados; 3
